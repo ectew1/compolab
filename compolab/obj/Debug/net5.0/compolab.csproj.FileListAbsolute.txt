@@ -1,0 +1,15 @@
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.csproj.AssemblyReference.cache
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.AssemblyInfoInputs.cache
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.AssemblyInfo.cs
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.csproj.CoreCompileInputs.cache
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/compolab.deps.json
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/compolab.runtimeconfig.json
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/compolab.runtimeconfig.dev.json
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/compolab.dll
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/ref/compolab.dll
+/Users/ellietew/Documents/MIS/repos/compolab/bin/Debug/net5.0/compolab.pdb
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.dll
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/ref/compolab.dll
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.pdb
+/Users/ellietew/Documents/MIS/repos/compolab/obj/Debug/net5.0/compolab.genruntimeconfig.cache
